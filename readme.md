@@ -7,7 +7,7 @@ Vagrantfilen består av en gateway/router och två klientmaskiner.
 Ladda ner filen, cd och vagrant up
 
 ```bash
-git clone
+git clone https://github.com/bojohan/dhcp.git
 cd dhcp
 vagrant up
 ```
